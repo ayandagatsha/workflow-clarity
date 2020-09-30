@@ -1,0 +1,33 @@
+.navcontentheader{
+    list-style-type: none;
+}
+.navcontentfooter{
+    list-style-type: none;
+}
+
+#gameScreen {
+    border: 10px double black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#gameScreen2 {
+    border: 10px double black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#gameContent{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+body {
+    text-align: center;
+}
+
+.ans {
+    border: 5px double blue;
+    margin-left: 25%;
+    margin-right: 25%;
+}
