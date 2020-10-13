@@ -31,3 +31,18 @@ body {
     margin-left: 25%;
     margin-right: 25%;
 }
+
+#firstAnswer {
+    width: 90%;
+    height:5em;
+}
+
+#secondAnswer {
+    width: 90%;
+    height:5em;
+}
+
+#thirdAnswer {
+    width: 90%;
+    height:5em;
+}
